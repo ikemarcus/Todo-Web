@@ -66,7 +66,6 @@ ul li.checked::before {
     background-color: #4169e1;
     color: white;
 }
-  
 
 .header {
     background-color: #4169e1;
@@ -91,21 +90,21 @@ input {
     float: left;
     font-size: 16px;
 }
-  
-  /* Style the "Add" button */
-  .addBtn {
+
+.addBtn {
     padding: 10px;
     width: 25%;
-    background: #d9d9d9;
-    color: #555;
+    background: #a1caf1;
+    color: #fff;
     float: left;
     text-align: center;
     font-size: 16px;
     cursor: pointer;
     transition: 0.3s;
     border-radius: 0;
-  }
+}
   
-  .addBtn:hover {
-    background-color: #bbb;
-  }
+.addBtn:hover {
+    background-color: #4682b4;
+    font-weight: bold;
+}
